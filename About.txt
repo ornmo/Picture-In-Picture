@@ -1,7 +1,7 @@
-This project is 
+This project is a picture in picture app. The PIP stays displayed when the User opens an additional window. 
 
-It uses 
+It uses API's that are already created - see Mozilla API docs for more information along with googling picture in picture API
 
-It can be used as an example of 
+It can be used as an example  
 
-- 
+- when doing a screen recording/ capture
